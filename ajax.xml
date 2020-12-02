@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Records>
+  <Record>
+    <FIRSTNAME>Shishir</FIRSTNAME>
+    <LASTNAME>Dwivedi</LASTNAME>
+    <Event>Marriage</SLOT>
+    <ISSUE>Menu Issue</ISSUE>
+    <DATE>10-10-2020</DATE>
+  </Record>
+  <Record>
+    <FIRSTNAME>John</FIRSTNAME>
+    <LASTNAME>Wick</LASTNAME>
+    <Event>Birthday Party</SLOT>
+    <ISSUE>Music System Issue</ISSUE>
+    <DATE>12-10-2020</DATE>
+  </Record>
+  <Record>
+    <FIRSTNAME>Tom</FIRSTNAME>
+    <LASTNAME>Cruise</LASTNAME>
+    <Event>Meeting</SLOT>
+    <ISSUE>Projector Issue</ISSUE>
+    <DATE>12-08-2020</DATE>
+  </Record>
+  <Record>
+    <FIRSTNAME>Monica</FIRSTNAME>
+    <LASTNAME>Geller</LASTNAME>
+    <Event>DJ Party</SLOT>
+    <ISSUE>Power Cut</ISSUE>
+    <DATE>06-08-2020</DATE>
+  </Record>
+  <Record>
+    <FIRSTNAME>Ankit</FIRSTNAME>
+    <LASTNAME>Sahu</LASTNAME>
+    <Event>Date</SLOT>
+    <SUBJECT>Fashion Event</SUBJECT>
+    <ISSUE>Light Issue</ISSUE>
+    <DATE>16-11-2020</DATE>
+  </Record>
+</Records>

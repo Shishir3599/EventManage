@@ -1,0 +1,96 @@
+h1,li,p.check_query_type, p.gender {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+h1 {
+	font-size: 50;
+}
+
+img.homepage {
+	height: 68%;
+}
+
+h5 {
+	font-family: 'Varela Round', sans-serif;
+	font-size: 16;
+}
+
+div.taskbar {
+    align-items: center;
+}
+
+div.inline_image {
+	display: inline-block;
+}
+
+div.form_box {
+	border: 1px solid black;
+	margin-left: 500px;
+	margin-right: 500px;
+	box-shadow: 2px 2px;
+}
+
+li.home {
+	margin-right: 650px;
+}
+
+li {
+	display: inline;
+	margin-right: 30px;
+}
+
+img.homeicon {
+	border-radius: 60%;
+}
+
+a {
+    color: rgb(50, 50, 50);
+    transition-duration: 0.4s;
+    text-decoration: none;
+    font-size: 18;
+}
+
+a:hover {
+	color: rgb(0, 0, 0);
+	text-decoration: underline; 
+}
+
+button {
+	font-size: 19px;
+	color: white;
+  	padding: 5px 15px;
+  	margin: 4px 2px;
+  	border-radius: 30px;
+	transition-duration: 0.4s;
+}
+
+button.dive_in {
+	background-color: rgb(244,248,251);
+	color: black;
+	border: 1px solid black;
+}
+
+button.dive_in:hover {
+    background-color: #555555;
+    color: white;
+}
+
+input {
+	margin-bottom: 20px;
+}
+
+label {
+	align-items: left;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 16;
+}
+
+body {
+	text-align: center;
+	background-color: rgb(244,248,251);
+}
+
+body.query {
+	background-image: url('form_background.jpg');
+	background-repeat: no-repeat;
+}
